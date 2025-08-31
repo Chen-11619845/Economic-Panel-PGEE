@@ -29,13 +29,3 @@ The macro-financial panel dataset was compiled from publicly available sources, 
 
 ---
 
-## Requirements
-
-The analysis is implemented in **R**. Main packages used include:  
-
-```r
-library(tidyverse)
-library(geepack)
-library(PGEE)
-library(kableExtra)
-library(pROC)
