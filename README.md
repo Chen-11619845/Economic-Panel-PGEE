@@ -1,8 +1,12 @@
 # Economic-Panel-PGEE
 
+# Economic-Panel-PGEE
+
 This repository contains the R code and scripts for the empirical analysis of high-dimensional economic panel data using **Generalized Estimating Equations (GEE)** and **Penalized GEE (PGEE)**.  
 
-The project explores both **continuous outcomes (GDP growth rates)** and **binary outcomes (recession indicators)**, with a focus on model performance and variable selection in macroeconomic forecasting.
+The code and results are part of the MSc Statistics dissertation of **Chen Ling (ID: 11619845)** at the University of Manchester. The dissertation focuses on applying GEE and PGEE to high-dimensional macroeconomic panel data, with emphasis on model performance, predictive accuracy, and variable selection.
+
+The project explores both **continuous outcomes (GDP growth rates)** and **binary outcomes (recession indicators)**, providing a framework for macroeconomic forecasting under correlated panel structures.
 
 ---
 
