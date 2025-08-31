@@ -1,6 +1,5 @@
 # Economic-Panel-PGEE
 
-# Economic-Panel-PGEE
 
 This repository contains the R code and scripts for the empirical analysis of high-dimensional economic panel data using **Generalized Estimating Equations (GEE)** and **Penalized GEE (PGEE)**.  
 
